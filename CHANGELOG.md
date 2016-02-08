@@ -1,4 +1,4 @@
-##2016-01-18 - Release 1.3.0
+##2016-02-08 - Release 1.3.0
 ###Summary
 
 This release fixes the default timeout value for exec and also deprecates
